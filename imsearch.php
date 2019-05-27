@@ -2,7 +2,7 @@
 <!DOCTYPE html><!-- HTML5 -->
 <html prefix="og: http://ogp.me/ns#" lang="ru-RU" dir="ltr">
 	<head>
-		<title>Поиск - russia-caluga-top</title>
+		<title>Поиск - Russia.Caluga.Top</title>
 		<meta charset="utf-8" />
 		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
 		<meta name="author" content="Nicolas Caluga" />
@@ -11,7 +11,7 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:url" content="https://russia.caluga.top/imsearch.php" />
 		<meta property="og:title" content="Поиск" />
-		<meta property="og:site_name" content="russia-caluga-top" />
+		<meta property="og:site_name" content="Russia.Caluga.Top" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
 		<link rel="stylesheet" type="text/css" href="style/reset.css?13-1-8-23" media="screen,print" />
@@ -19,7 +19,7 @@
 		<link rel="stylesheet" type="text/css" href="style/style.css?13-1-8-23" media="screen,print" />
 		<link rel="stylesheet" type="text/css" href="style/template.css?13-1-8-23" media="screen" />
 		<link rel="stylesheet" type="text/css" href="style/menu.css?13-1-8-23" media="screen" />
-		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-636939530300684110" media="screen,print" />
+		<link rel="stylesheet" type="text/css" href="pcss/imsearch.css?13-1-8-23-636945847152839087" media="screen,print" />
 		<script type="text/javascript" src="res/jquery.js?13-1-8-23"></script>
 		<script type="text/javascript" src="res/x5engine.js?13-1-8-23" data-files-version="13-1-8-23"></script>
 		<script type="text/javascript">
@@ -87,7 +87,7 @@
 				<div id="imFooterObjects"><div id="imFooter_imTextObject_01_wrapper" class="template-object-wrapper"><div id="imFooter_imCell_1" class="" > <div id="imFooter_imCellStyleGraphics_1"></div><div id="imFooter_imCellStyle_1" ><div id="imFooter_imTextObject_01">
 	<div class="text-tab-content"  id="imFooter_imTextObject_01_tab0" style="">
 		<div class="text-inner">
-			<a href="javascript:x5engine.utils.emailTo('4341331','.comailp@gmogataluc','%25D0%25A1%25D0%25BE%25D0%25BE%25D0%25B1%25D1%2589%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5%2520%25D1%2581%2520%25D1%2581%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B0%2520russia.caluga.top','')" class="imCssLink">calugatop@gmail.com</a>
+			<a href="javascript:x5engine.utils.emailTo('13321423','m.coailgm@atopugcal','%25D0%25A1%25D0%25BE%25D0%25BE%25D0%25B1%25D1%2589%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5%2520%25D1%2581%2520%25D1%2581%25D0%25B0%25D0%25B9%25D1%2582%25D0%25B0%2520russia.caluga.top','')" class="imCssLink">calugatop@gmail.com</a>
 		</div>
 	</div>
 
